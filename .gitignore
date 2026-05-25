@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+data/
+*.html
+*.ipynb
+*.png
+*.lock
+*.pkl
+
+extracted_rules_data/
+extracted_rules_data_1/
